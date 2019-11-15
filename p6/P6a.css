@@ -1,0 +1,48 @@
+/*Talco*/
+#color1{
+	background: #FF5733;
+	font-stretch:normal;
+}
+/*Yeso*/
+#color2{
+	background: #E54E2E;
+	font-stretch:ultra-condensed;
+}
+/*Calcita*/
+#color3{
+	background: #C24429;
+	font-stretch: extra-condensed;
+}
+/*Fluorita*/
+#color4{
+	background: #9C3822;
+	font-stretch:condensed;
+}
+/*Apatito*/
+#color5{
+	background: #762B1B;
+	font-stretch:semi-condensed;
+}
+/*Cuarzo*/
+#color6{
+	background: #572015;
+	font-stretch:semi-expanded;
+}
+/*Topacio*/
+#color7{
+	color: white;
+	background: #36140E;
+	font-stretch:expanded;
+}
+/*Corindon*/
+#color8{
+	color: white;
+	background: #180906;
+	font-stretch:extra-expanded;
+}
+/*Diamante*/
+#color9{
+	color: white;
+	background: #000000;
+	font-stretch:ultra-expanded;
+}
